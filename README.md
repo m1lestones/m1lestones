@@ -15,7 +15,7 @@
 
 ---
 
-## 🎓 Pursuit Lookbook
+## 🎓 Juan Franco
 
 <table>
 <tr>
