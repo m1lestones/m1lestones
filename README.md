@@ -90,7 +90,8 @@ Fifteen years running **Primetime Recording Studio** in Queens, an **FAA Powerpl
 | Status | Repository | Contribution | Stack |
 |---|---|---|---|
 | ✅ **MERGED** | [openai/openai-agents-python](https://github.com/openai/openai-agents-python/pull/2851) | Added HoneyHive to official tracing integrations | `Python` `AI` |
-| ⏳ **APPROVED** | [plastic-labs/honcho](https://github.com/plastic-labs/honcho/pull/511) | OpenAI Agents SDK memory integration example | `Python` `AI` `Memory` |
+| ⏳ **OPEN** | [ethereum/go-ethereum #35221](https://github.com/ethereum/go-ethereum/pull/35221) | Added `GetABI()` to abigen v2 generated bindings | `Go` `Ethereum` |
+| ⏳ **OPEN** | [ethereum/execution-apis #835](https://github.com/ethereum/execution-apis/pull/835) | Fixed `FilterTopic` schema — added `null` support per spec | `YAML` `OpenRPC` `Ethereum` |
 | ⏳ **OPEN** | [calcom/cal.com #28776](https://github.com/calcom/cal.com/pull/28776) | Fixed 3 WCAG 2.1 AA failures · Screen readers now work · 50,000+ orgs | `TypeScript` `React` `a11y` |
 | ⏳ **OPEN** | [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pulls?q=author:m1lestones) | 3 PRs: websockets version bump · hex signatures · optional LedgerEntry fields | `Python` `XRPL` |
 
@@ -123,7 +124,7 @@ Python       ██████████░░░░░░░░░░  4h 30
 Web3/Solidity████████░░░░░░░░░░░░  3h 15m
 CSS/HTML     ██████░░░░░░░░░░░░░░  2h 40m
 
-🔥 STREAK: 14 DAYS  ⚡ TOTAL: 22 HRS  🎯 PRs OPEN: 4
+🔥 STREAK: 14 DAYS  ⚡ TOTAL: 22 HRS  🎯 PRs OPEN: 6
 ```
 
 </td>
@@ -157,9 +158,9 @@ CSS/HTML     ██████░░░░░░░░░░░░░░  2h 40
 2024 ── 🚀  Pursuit L2
              PlateIQ · NAVIA · E-Ticket
 2025 ── ✅  OpenAI Merged · $J4J $169K
-             Honcho approved · XRPL PRs
-2026 ── 🎯  Pursuit L3 · Cal.com
-             3 WCAG fixes · June pitch
+             XRPL PRs · Cal.com WCAG fixes
+2026 ── ⛓️  ethereum/go-ethereum · execution-apis
+             2 Ethereum OSS PRs open · June pitch
 ```
 
 </td>
@@ -175,9 +176,10 @@ CSS/HTML     ██████░░░░░░░░░░░░░░  2h 40
 ║          ★  H I G H   S C O R E S  —  O P E N   S O U R C E  ★  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  1ST  openai/openai-agents-python  ................  9,200 pts ✅ ║
-║  2ND  plastic-labs/honcho  .........................  7,800 pts ⏳ ║
-║  3RD  calcom/cal.com  ·  50,000+ orgs  .............  6,500 pts ⏳ ║
-║  4TH  XRPLF/xrpl-py  ·  3 PRs  ....................  4,200 pts ⏳ ║
+║  2ND  ethereum/go-ethereum  ·  abigen v2 GetABI()  .  8,500 pts ⏳ ║
+║  3RD  ethereum/execution-apis  ·  FilterTopic fix  .  7,800 pts ⏳ ║
+║  4TH  calcom/cal.com  ·  50,000+ orgs  .............  6,500 pts ⏳ ║
+║  5TH  XRPLF/xrpl-py  ·  3 PRs  ....................  4,200 pts ⏳ ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  CAREER XP                                                        ║
 ║  FULL-STACK   ██████████████████████████████████████████  90%     ║
