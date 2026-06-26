@@ -81,7 +81,7 @@ Institutional collateral platform — real-time risk & margin infrastructure
 
 ![activity](assets/sparklines/m1lestones_conduit-margin.svg)
 
-`TypeScript` `Finance` `Web3` · 🔒 Private
+`TypeScript` `Finance` `Web3` · 🔒 Private · [Live ↗](https://conduitmargin.com)
 
 ---
 

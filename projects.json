@@ -4,7 +4,7 @@
     "description": "Institutional collateral platform — real-time risk & margin infrastructure",
     "repo": "m1lestones/conduit-margin",
     "private": true,
-    "url": null,
+    "url": "https://conduitmargin.com",
     "stack": ["TypeScript", "Finance", "Web3"],
     "category": "featured"
   },
