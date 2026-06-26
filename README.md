@@ -147,7 +147,7 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 |---|---|---|---|
 | [Adonisagent](https://github.com/jp-bmn/adonisagent) | 2 days ago | 224 | `TypeScript` `React` `AI` |
 | [NAVIA](https://github.com/m1lestones/navia-app) | 7mo ago | 0 | `JavaScript` `Node.js` `AI` |
-| [The Blueprint Vault](https://github.com/m1lestones/theblueprintvault) | 6mo ago | 0 | `JavaScript` |
+| [The Blueprint Vault](https://github.com/m1lestones/theblueprintvault) | — | 0 | `JavaScript` |
 | [J4J Token](https://github.com/m1lestones/J4J-Token) | 2mo ago | 0 | `HTML` `Solana` `Web3` |
 | [PlateIQ](https://github.com/PlateIQ-Team/Plate-IQ) | 1mo ago | 0 | `React` `Node.js` `PostgreSQL` `AI` |
 | [DR E-Ticket Redesign](https://github.com/m1lestones/eticket-redesign) | 8mo ago | 0 | `HTML` `CSS` `Accessibility` |
