@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Conduit Margin",
+    "description": "Institutional collateral platform — real-time risk & margin infrastructure",
+    "repo": "m1lestones/conduit-margin",
+    "private": true,
+    "url": null,
+    "stack": ["TypeScript", "Finance", "Web3"],
+    "category": "featured"
+  },
+  {
+    "name": "Adonisagent",
+    "description": "AI-powered sales intelligence tool for healthcare AEs",
+    "repo": "jp-bmn/adonisagent",
+    "private": false,
+    "url": null,
+    "stack": ["TypeScript", "React", "AI"],
+    "category": "featured"
+  },
+  {
+    "name": "NAVIA",
+    "description": "Real-time flight tracking app with Wingmate AI assistant",
+    "repo": "m1lestones/navia-app",
+    "private": false,
+    "url": "https://navia-app-ruby.vercel.app",
+    "stack": ["JavaScript", "Node.js", "AI"],
+    "category": "featured"
+  },
+  {
+    "name": "The Blueprint Vault",
+    "description": "Digital blueprints — curated resources and systems for builders",
+    "repo": "m1lestones/theblueprintvault",
+    "private": false,
+    "url": null,
+    "stack": ["JavaScript"],
+    "category": "featured"
+  },
+  {
+    "name": "J4J Token",
+    "description": "Justice For Joey — community-driven Solana token · $169K market cap",
+    "repo": "m1lestones/J4J-Token",
+    "private": false,
+    "url": "https://justiceforjoey.xyz",
+    "stack": ["HTML", "Solana", "Web3"],
+    "category": "featured"
+  },
+  {
+    "name": "PlateIQ",
+    "description": "AI nutrition app — Claude Vision + USDA FoodData Central",
+    "repo": "PlateIQ-Team/Plate-IQ",
+    "private": false,
+    "url": "https://plate-iq.vercel.app",
+    "stack": ["React", "Node.js", "PostgreSQL", "AI"],
+    "category": "featured"
+  },
+  {
+    "name": "DR E-Ticket Redesign",
+    "description": "100 Lighthouse score · Full WCAG 2.1 AA redesign of Dominican Republic e-ticket portal",
+    "repo": "m1lestones/eticket-redesign",
+    "private": false,
+    "url": "https://eticket-redesign.vercel.app",
+    "stack": ["HTML", "CSS", "Accessibility"],
+    "category": "pursuit"
+  },
+  {
+    "name": "VoiceGuard",
+    "description": "AI-powered voice authentication app to prevent voice cloning scams",
+    "repo": "m1lestones/voiceguard",
+    "private": false,
+    "url": null,
+    "stack": ["TypeScript", "AI"],
+    "category": "personal"
+  },
+  {
+    "name": "Morning Briefing Agent",
+    "description": "Autonomous AI agent that delivers personalized daily briefings",
+    "repo": "m1lestones/morning-briefing-agent",
+    "private": false,
+    "url": null,
+    "stack": ["Python", "AI"],
+    "category": "personal"
+  },
+  {
+    "name": "Uplift",
+    "description": "Matches unhoused individuals with jobs and career resources",
+    "repo": "m1lestones/uplift",
+    "private": false,
+    "url": null,
+    "stack": ["TypeScript"],
+    "category": "personal"
+  },
+  {
+    "name": "XRP Insights Dashboard",
+    "description": "Real-time XRPL blockchain analytics dashboard",
+    "repo": "m1lestones/xrp-insights-dashboard",
+    "private": false,
+    "url": null,
+    "stack": ["Python", "XRPL"],
+    "category": "personal"
+  }
+]

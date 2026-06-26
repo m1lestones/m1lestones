@@ -1,0 +1,50 @@
+[
+  {
+    "repo": "openai/openai-agents-python",
+    "pr": 2851,
+    "description": "Added HoneyHive to official tracing integrations",
+    "stack": ["Python", "AI"]
+  },
+  {
+    "repo": "ethereum/go-ethereum",
+    "pr": 35221,
+    "description": "Added `GetABI()` method to abigen v2 generated bindings",
+    "stack": ["Go", "Ethereum"]
+  },
+  {
+    "repo": "ethereum/execution-apis",
+    "pr": 835,
+    "description": "Fixed `FilterTopic` schema — added `null` support per spec",
+    "stack": ["YAML", "OpenRPC", "Ethereum"]
+  },
+  {
+    "repo": "calcom/cal.com",
+    "pr": 28776,
+    "description": "Fixed 3 WCAG 2.1 AA failures · Screen readers now work · 50,000+ orgs",
+    "stack": ["TypeScript", "React", "a11y"]
+  },
+  {
+    "repo": "XRPLF/xrpl-py",
+    "pr": 945,
+    "description": "Bumped websockets minimum version to >=14",
+    "stack": ["Python", "XRPL"]
+  },
+  {
+    "repo": "XRPLF/xrpl-py",
+    "pr": 944,
+    "description": "Fixed hex string signatures and OverflowError in is_valid_message",
+    "stack": ["Python", "XRPL"]
+  },
+  {
+    "repo": "XRPLF/xrpl-py",
+    "pr": 943,
+    "description": "Made Directory.dir_root and Directory.owner optional in LedgerEntry",
+    "stack": ["Python", "XRPL"]
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "pr": 3891,
+    "description": "Added tool annotations to all tools in the everything server",
+    "stack": ["TypeScript", "MCP"]
+  }
+]

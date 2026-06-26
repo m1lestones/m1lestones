@@ -69,31 +69,151 @@ Fifteen years running **Primetime Recording Studio** in Queens, an **FAA Powerpl
 
 <br/>
 
-**🚀 Projects built at Pursuit:**
-
-| Project | Description | Stack |
-|---|---|---|
-| 🍽️ **[Plate IQ](https://plate-iq.vercel.app/)** | AI nutrition app · Claude Vision + USDA FoodData Central | `React` `Node.js` `PostgreSQL` `OpenAI` |
-| 🗺️ **[DR E-Ticket](https://eticket-redesign.vercel.app/)** | 100 Lighthouse score · Full WCAG 2.1 AA redesign | `HTML` `CSS` `Accessibility` |
-| ✈️ **[NAVIA](https://github.com/m1lestones/navia-app)** | Real-time flight tracking + Wingmate AI assistant | `JavaScript` `Node.js` `AI` |
-
-<br/>
-
 **🔭 Long-term vision:** Building at the intersection of **AI, wellness, and financial transparency** — with a deep interest in how decentralized systems can create economic opportunity for communities historically locked out of traditional finance.
 
 ---
 
-## 🌟 Open Source Contributions
+<!-- FEATURED_START -->
+## 🌟 Featured Projects
+
+### Conduit Margin
+Institutional collateral platform — real-time risk & margin infrastructure
+
+![activity](assets/sparklines/m1lestones_conduit-margin.svg)
+
+`TypeScript` `Finance` `Web3` · 🔒 Private
+
+---
+
+### Adonisagent
+AI-powered sales intelligence tool for healthcare AEs
+
+![activity](assets/sparklines/jp-bmn_adonisagent.svg)
+
+`TypeScript` `React` `AI` · [GitHub ↗](https://github.com/jp-bmn/adonisagent)
+💬 [Leave feedback](https://github.com/jp-bmn/adonisagent/discussions)
+
+---
+
+### NAVIA
+Real-time flight tracking app with Wingmate AI assistant
+
+![activity](assets/sparklines/m1lestones_navia-app.svg)
+
+`JavaScript` `Node.js` `AI` · [GitHub ↗](https://github.com/m1lestones/navia-app) · [Live ↗](https://navia-app-ruby.vercel.app)
+💬 [Leave feedback](https://github.com/m1lestones/navia-app/discussions)
+
+---
+
+### The Blueprint Vault
+Digital blueprints — curated resources and systems for builders
+
+![activity](assets/sparklines/m1lestones_theblueprintvault.svg)
+
+`JavaScript` · [GitHub ↗](https://github.com/m1lestones/theblueprintvault)
+💬 [Leave feedback](https://github.com/m1lestones/theblueprintvault/discussions)
+
+---
+
+### J4J Token
+Justice For Joey — community-driven Solana token · $169K market cap
+
+![activity](assets/sparklines/m1lestones_J4J-Token.svg)
+
+`HTML` `Solana` `Web3` · [GitHub ↗](https://github.com/m1lestones/J4J-Token) · [Live ↗](https://justiceforjoey.xyz)
+💬 [Leave feedback](https://github.com/m1lestones/J4J-Token/discussions)
+
+---
+
+### PlateIQ
+AI nutrition app — Claude Vision + USDA FoodData Central
+
+![activity](assets/sparklines/PlateIQ-Team_Plate-IQ.svg)
+
+`React` `Node.js` `PostgreSQL` `AI` · [GitHub ↗](https://github.com/PlateIQ-Team/Plate-IQ) · [Live ↗](https://plate-iq.vercel.app)
+💬 [Leave feedback](https://github.com/PlateIQ-Team/Plate-IQ/discussions)
+
+---
+
+<!-- FEATURED_END -->
+
+<!-- ACTIVITY_START -->
+## 📊 By Activity
+
+<details>
+<summary>View all projects sorted by recent commit activity</summary>
+
+| Project | Last Active | Recent Commits | Stack |
+|---|---|---|---|
+| [Adonisagent](https://github.com/jp-bmn/adonisagent) | 2 days ago | 224 | `TypeScript` `React` `AI` |
+| [NAVIA](https://github.com/m1lestones/navia-app) | 7mo ago | 0 | `JavaScript` `Node.js` `AI` |
+| [The Blueprint Vault](https://github.com/m1lestones/theblueprintvault) | 6mo ago | 0 | `JavaScript` |
+| [J4J Token](https://github.com/m1lestones/J4J-Token) | 2mo ago | 0 | `HTML` `Solana` `Web3` |
+| [PlateIQ](https://github.com/PlateIQ-Team/Plate-IQ) | 1mo ago | 0 | `React` `Node.js` `PostgreSQL` `AI` |
+| [DR E-Ticket Redesign](https://github.com/m1lestones/eticket-redesign) | 8mo ago | 0 | `HTML` `CSS` `Accessibility` |
+| [VoiceGuard](https://github.com/m1lestones/voiceguard) | 4mo ago | 0 | `TypeScript` `AI` |
+| [Morning Briefing Agent](https://github.com/m1lestones/morning-briefing-agent) | 1mo ago | 0 | `Python` `AI` |
+| [Uplift](https://github.com/m1lestones/uplift) | 8mo ago | 0 | `TypeScript` |
+| [XRP Insights Dashboard](https://github.com/m1lestones/xrp-insights-dashboard) | 8mo ago | 0 | `Python` `XRPL` |
+
+</details>
+
+<!-- ACTIVITY_END -->
+
+<!-- OSS_START -->
+## 🤝 Open Source Contributions
 
 > Real codebases. Real maintainers. No tutorial projects.
 
-| Status | Repository | Contribution | Stack |
-|---|---|---|---|
-| ✅ **MERGED** | [openai/openai-agents-python](https://github.com/openai/openai-agents-python/pull/2851) | Added HoneyHive to official tracing integrations | `Python` `AI` |
-| ⏳ **OPEN** | [ethereum/go-ethereum #35221](https://github.com/ethereum/go-ethereum/pull/35221) | Added `GetABI()` to abigen v2 generated bindings | `Go` `Ethereum` |
-| ⏳ **OPEN** | [ethereum/execution-apis #835](https://github.com/ethereum/execution-apis/pull/835) | Fixed `FilterTopic` schema — added `null` support per spec | `YAML` `OpenRPC` `Ethereum` |
-| ⏳ **OPEN** | [calcom/cal.com #28776](https://github.com/calcom/cal.com/pull/28776) | Fixed 3 WCAG 2.1 AA failures · Screen readers now work · 50,000+ orgs | `TypeScript` `React` `a11y` |
-| ⏳ **OPEN** | [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pulls?q=author:m1lestones) | 3 PRs: websockets version bump · hex signatures · optional LedgerEntry fields | `Python` `XRPL` |
+### ✅ Merged
+
+| Repository | Contribution | Stack |
+|---|---|---|
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python/pull/2851) | Added HoneyHive to official tracing integrations | `Python` `AI` |
+
+<details>
+<summary>⏳ Open PRs (7)</summary>
+
+| Repository | Contribution | Stack |
+|---|---|---|
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pull/35221) | Added `GetABI()` method to abigen v2 generated bindings | `Go` `Ethereum` |
+| [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pull/835) | Fixed `FilterTopic` schema — added `null` support per spec | `YAML` `OpenRPC` `Ethereum` |
+| [calcom/cal.com](https://github.com/calcom/cal.diy/pull/28776) | Fixed 3 WCAG 2.1 AA failures · Screen readers now work · 50,000+ orgs | `TypeScript` `React` `a11y` |
+| [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/945) | Bumped websockets minimum version to >=14 | `Python` `XRPL` |
+| [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/944) | Fixed hex string signatures and OverflowError in is_valid_message | `Python` `XRPL` |
+| [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/943) | Made Directory.dir_root and Directory.owner optional in LedgerEntry | `Python` `XRPL` |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/pull/3891) | Added tool annotations to all tools in the everything server | `TypeScript` `MCP` |
+
+</details>
+
+<!-- OSS_END -->
+
+<!-- PURSUIT_START -->
+<details>
+<summary>🎓 Pursuit / School Projects (1)</summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| [DR E-Ticket Redesign](https://github.com/m1lestones/eticket-redesign) | 100 Lighthouse score · Full WCAG 2.1 AA redesign of Dominican Republic e-ticket portal | `HTML` `CSS` `Accessibility` |
+
+</details>
+
+<!-- PURSUIT_END -->
+
+<!-- PERSONAL_START -->
+<details>
+<summary>🔧 Personal Projects (4)</summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| [VoiceGuard](https://github.com/m1lestones/voiceguard) | AI-powered voice authentication app to prevent voice cloning scams | `TypeScript` `AI` |
+| [Morning Briefing Agent](https://github.com/m1lestones/morning-briefing-agent) | Autonomous AI agent that delivers personalized daily briefings | `Python` `AI` |
+| [Uplift](https://github.com/m1lestones/uplift) | Matches unhoused individuals with jobs and career resources | `TypeScript` |
+| [XRP Insights Dashboard](https://github.com/m1lestones/xrp-insights-dashboard) | Real-time XRPL blockchain analytics dashboard | `Python` `XRPL` |
+
+</details>
+
+<!-- PERSONAL_END -->
 
 ---
 
@@ -185,11 +305,11 @@ CSS/HTML     ██████░░░░░░░░░░░░░░  2h 40
 ║  FULL-STACK   ██████████████████████████████████████████  90%     ║
 ║  WEB3         █████████████████████████████████████████   85%     ║
 ║  MUSIC        █████████████████████████████████████████████ 95%   ║
-║  OPEN SOURCE  ██████████████████████████████████          75%     ║
+║  OPEN SOURCE  ██████████████████████████████████          80%     ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  ACHIEVEMENTS UNLOCKED                                            ║
 ║  👾 MERGED PR  🎙️ 15YR STUDIO  ✈️ FAA CERT  ⛓️ $169K MCAP        ║
-║  🚀 PURSUIT L3  🏠 LANDLORD  🔒 LOCKED  🔒 LOCKED                 ║
+║  🚀 PURSUIT L3  ⛓️ ETHEREUM OSS  🔒 LOCKED  🔒 LOCKED             ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                 — INSERT COIN TO CONTINUE —                       ║
 ╚══════════════════════════════════════════════════════════════════╝
