@@ -145,14 +145,14 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 
 | Project | Last Active | Recent Commits | Stack |
 |---|---|---|---|
-| [Adonisagent](https://github.com/jp-bmn/adonisagent) | 3 days ago | 224 | `TypeScript` `React` `AI` |
-| [NAVIA](https://github.com/m1lestones/navia-app) | 7mo ago | 0 | `JavaScript` `Node.js` `AI` |
+| [Adonisagent](https://github.com/jp-bmn/adonisagent) | 4 days ago | 159 | `TypeScript` `React` `AI` |
+| [NAVIA](https://github.com/m1lestones/navia-app) | 8mo ago | 0 | `JavaScript` `Node.js` `AI` |
 | [The Blueprint Vault](https://github.com/m1lestones/theblueprintvault) | — | 0 | `JavaScript` |
-| [J4J Token](https://github.com/m1lestones/J4J-Token) | 2mo ago | 0 | `HTML` `Solana` `Web3` |
+| [J4J Token](https://github.com/m1lestones/J4J-Token) | 3mo ago | 0 | `HTML` `Solana` `Web3` |
 | [PlateIQ](https://github.com/PlateIQ-Team/Plate-IQ) | 1mo ago | 0 | `React` `Node.js` `PostgreSQL` `AI` |
 | [DR E-Ticket Redesign](https://github.com/m1lestones/eticket-redesign) | 8mo ago | 0 | `HTML` `CSS` `Accessibility` |
 | [VoiceGuard](https://github.com/m1lestones/voiceguard) | 4mo ago | 0 | `TypeScript` `AI` |
-| [Morning Briefing Agent](https://github.com/m1lestones/morning-briefing-agent) | 1mo ago | 0 | `Python` `AI` |
+| [Morning Briefing Agent](https://github.com/m1lestones/morning-briefing-agent) | 2mo ago | 0 | `Python` `AI` |
 | [Uplift](https://github.com/m1lestones/uplift) | 8mo ago | 0 | `TypeScript` |
 | [XRP Insights Dashboard](https://github.com/m1lestones/xrp-insights-dashboard) | 8mo ago | 0 | `Python` `XRPL` |
 
