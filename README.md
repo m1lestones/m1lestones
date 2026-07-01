@@ -145,8 +145,8 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 
 | Project | Last Active | Recent Commits | Stack |
 |---|---|---|---|
-| [Adonisagent](https://github.com/jp-bmn/adonisagent) | today | 173 | `TypeScript` `React` `AI` |
-| [NAVIA](https://github.com/m1lestones/navia-app) | 8mo ago | 0 | `JavaScript` `Node.js` `AI` |
+| [Adonisagent](https://github.com/jp-bmn/adonisagent) | 1 day ago | 173 | `TypeScript` `React` `AI` |
+| [NAVIA](https://github.com/m1lestones/navia-app) | today | 1 | `JavaScript` `Node.js` `AI` |
 | [The Blueprint Vault](https://github.com/m1lestones/theblueprintvault) | — | 0 | `JavaScript` |
 | [J4J Token](https://github.com/m1lestones/J4J-Token) | 3mo ago | 0 | `HTML` `Solana` `Web3` |
 | [PlateIQ](https://github.com/PlateIQ-Team/Plate-IQ) | 1mo ago | 0 | `React` `Node.js` `PostgreSQL` `AI` |
@@ -172,14 +172,13 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python/pull/2851) | Added HoneyHive to official tracing integrations | `Python` `AI` |
 
 <details>
-<summary>⏳ Open PRs (7)</summary>
+<summary>⏳ Open PRs (6)</summary>
 
 | Repository | Contribution | Stack |
 |---|---|---|
 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pull/35221) | Added `GetABI()` method to abigen v2 generated bindings | `Go` `Ethereum` |
 | [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pull/835) | Fixed `FilterTopic` schema — added `null` support per spec | `YAML` `OpenRPC` `Ethereum` |
 | [calcom/cal.com](https://github.com/calcom/cal.diy/pull/28776) | Fixed 3 WCAG 2.1 AA failures · Screen readers now work · 50,000+ orgs | `TypeScript` `React` `a11y` |
-| [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/945) | Bumped websockets minimum version to >=14 | `Python` `XRPL` |
 | [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/944) | Fixed hex string signatures and OverflowError in is_valid_message | `Python` `XRPL` |
 | [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/943) | Made Directory.dir_root and Directory.owner optional in LedgerEntry | `Python` `XRPL` |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/pull/3891) | Added tool annotations to all tools in the everything server | `TypeScript` `MCP` |
