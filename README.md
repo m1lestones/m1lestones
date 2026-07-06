@@ -145,8 +145,8 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 
 | Project | Last Active | Recent Commits | Stack |
 |---|---|---|---|
-| [Adonisagent](https://github.com/jp-bmn/adonisagent) | 5 days ago | 123 | `TypeScript` `React` `AI` |
-| [NAVIA](https://github.com/m1lestones/navia-app) | 4 days ago | 1 | `JavaScript` `Node.js` `AI` |
+| [Adonisagent](https://github.com/jp-bmn/adonisagent) | 6 days ago | 123 | `TypeScript` `React` `AI` |
+| [NAVIA](https://github.com/m1lestones/navia-app) | 5 days ago | 1 | `JavaScript` `Node.js` `AI` |
 | [The Blueprint Vault](https://github.com/m1lestones/theblueprintvault) | — | 0 | `JavaScript` |
 | [J4J Token](https://github.com/m1lestones/J4J-Token) | 3mo ago | 0 | `HTML` `Solana` `Web3` |
 | [PlateIQ](https://github.com/PlateIQ-Team/Plate-IQ) | 2mo ago | 0 | `React` `Node.js` `PostgreSQL` `AI` |
@@ -154,7 +154,7 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 | [VoiceGuard](https://github.com/m1lestones/voiceguard) | 5mo ago | 0 | `TypeScript` `AI` |
 | [Morning Briefing Agent](https://github.com/m1lestones/morning-briefing-agent) | 2mo ago | 0 | `Python` `AI` |
 | [Uplift](https://github.com/m1lestones/uplift) | 8mo ago | 0 | `TypeScript` |
-| [XRP Insights Dashboard](https://github.com/m1lestones/xrp-insights-dashboard) | 8mo ago | 0 | `Python` `XRPL` |
+| [XRP Insights Dashboard](https://github.com/m1lestones/xrp-insights-dashboard) | 9mo ago | 0 | `Python` `XRPL` |
 
 </details>
 
