@@ -153,8 +153,8 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 | [DR E-Ticket Redesign](https://github.com/m1lestones/eticket-redesign) | 11mo ago | 0 | `HTML` `CSS` `Accessibility` |
 | [VoiceGuard](https://github.com/m1lestones/voiceguard) | 8mo ago | 0 | `TypeScript` `AI` |
 | [Morning Briefing Agent](https://github.com/m1lestones/morning-briefing-agent) | 5mo ago | 0 | `Python` `AI` |
-| [Uplift](https://github.com/m1lestones/uplift) | 11mo ago | 0 | `TypeScript` |
-| [XRP Insights Dashboard](https://github.com/m1lestones/xrp-insights-dashboard) | 11mo ago | 0 | `Python` `XRPL` |
+| [Uplift](https://github.com/m1lestones/uplift) | 12mo ago | 0 | `TypeScript` |
+| [XRP Insights Dashboard](https://github.com/m1lestones/xrp-insights-dashboard) | 12mo ago | 0 | `Python` `XRPL` |
 
 </details>
 
