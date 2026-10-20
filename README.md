@@ -150,7 +150,7 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 | [The Blueprint Vault](https://github.com/m1lestones/theblueprintvault) | — | 0 | `JavaScript` |
 | [J4J Token](https://github.com/m1lestones/J4J-Token) | 6mo ago | 0 | `HTML` `Solana` `Web3` |
 | [PlateIQ](https://github.com/PlateIQ-Team/Plate-IQ) | 5mo ago | 0 | `React` `Node.js` `PostgreSQL` `AI` |
-| [DR E-Ticket Redesign](https://github.com/m1lestones/eticket-redesign) | 11mo ago | 0 | `HTML` `CSS` `Accessibility` |
+| [DR E-Ticket Redesign](https://github.com/m1lestones/eticket-redesign) | 12mo ago | 0 | `HTML` `CSS` `Accessibility` |
 | [VoiceGuard](https://github.com/m1lestones/voiceguard) | 8mo ago | 0 | `TypeScript` `AI` |
 | [Morning Briefing Agent](https://github.com/m1lestones/morning-briefing-agent) | 5mo ago | 0 | `Python` `AI` |
 | [Uplift](https://github.com/m1lestones/uplift) | 1y ago | 0 | `TypeScript` |
@@ -174,14 +174,13 @@ AI nutrition app — Claude Vision + USDA FoodData Central
 | [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pull/835) | Fixed `FilterTopic` schema — added `null` support per spec | `YAML` `OpenRPC` `Ethereum` |
 
 <details>
-<summary>⏳ Open PRs (4)</summary>
+<summary>⏳ Open PRs (3)</summary>
 
 | Repository | Contribution | Stack |
 |---|---|---|
 | [calcom/cal.com](https://github.com/calcom/cal.diy/pull/28776) | Fixed 3 WCAG 2.1 AA failures · Screen readers now work · 50,000+ orgs | `TypeScript` `React` `a11y` |
 | [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/944) | Fixed hex string signatures and OverflowError in is_valid_message | `Python` `XRPL` |
 | [XRPLF/xrpl-py](https://github.com/XRPLF/xrpl-py/pull/943) | Made Directory.dir_root and Directory.owner optional in LedgerEntry | `Python` `XRPL` |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/pull/3891) | Added tool annotations to all tools in the everything server | `TypeScript` `MCP` |
 
 </details>
 
